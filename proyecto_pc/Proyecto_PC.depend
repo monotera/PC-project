@@ -1,0 +1,144 @@
+# depslib dependency file v1.0
+1553967605 source:c:\users\legion\desktop\proyecto_pc\lista.cpp
+	"lista.h"
+
+1553967605 c:\users\legion\desktop\proyecto_pc\lista.h
+	<stdlib.h>
+	<conio.h>
+
+1556911163 source:c:\users\legion\desktop\proyecto_pc\main.cpp
+	<iostream>
+	<string.h>
+	<fstream>
+	"lista.cpp"
+
+1553967605 c:\users\legion\desktop\proyecto_pc\lista.cpp
+	"lista.h"
+
+1556912125 source:c:\users\legion\desktop\proyecto_pc\funcionpalabras.cpp
+	<iostream>
+	<string.h>
+	<fstream>
+	"lista.cpp"
+
+1556934442 source:c:\users\user\desktop\c++\pc\proyecto_pc\funcionpalabras.cpp
+	<iostream>
+	<string.h>
+	<fstream>
+	"lista.cpp"
+
+1556925448 c:\users\user\desktop\c++\pc\proyecto_pc\lista.cpp
+	"lista.h"
+
+1556925448 c:\users\user\desktop\c++\pc\proyecto_pc\lista.h
+	<stdlib.h>
+	<conio.h>
+
+1556925448 source:c:\users\user\desktop\c++\pc\proyecto_pc\lista.cpp
+	"lista.h"
+
+1559026281 source:c:\users\user\desktop\c++\pc\proyecto_pc\main.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<string.h>
+	<fstream>
+	"lista.cpp"
+	<windows.h>
+	<iomanip>
+
+1557456628 source:c:\users\user\desktop\c++\pc\proyecto_pc\buscar_palabra.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<string.h>
+	<fstream>
+	"lista.cpp"
+	"main_buscar_administrador.h"
+	<windows.h>
+
+1556936921 c:\users\user\desktop\c++\pc\proyecto_pc\main_buscar_administrador.h
+
+1556934941 c:\users\user\desktop\c++\pc\proyecto_pc\buscar_palabra.cpp
+
+1557450011 source:c:\users\user\desktop\c++\pc\proyecto_pc\administrador.cpp
+	<iostream>
+	"main_buscar_administrador.h"
+	<fstream>
+	<string.h>
+	<cstdlib>
+
+1557434716 source:c:\users\nxlsxn\desktop\c++\pc\proyecto_pc\administrador.cpp
+	<iostream>
+	"main_buscar_administrador.h"
+	<fstream>
+	<string.h>
+	<cstdlib>
+
+1556936921 c:\users\nxlsxn\desktop\c++\pc\proyecto_pc\main_buscar_administrador.h
+
+1557434160 source:c:\users\nxlsxn\desktop\c++\pc\proyecto_pc\buscar_palabra.cpp
+	<iostream>
+	<cstdlib>
+	<string.h>
+	<fstream>
+	"lista.cpp"
+	"main_buscar_administrador.h"
+	<windows.h>
+
+1556925448 c:\users\nxlsxn\desktop\c++\pc\proyecto_pc\lista.cpp
+	"lista.h"
+
+1556925448 c:\users\nxlsxn\desktop\c++\pc\proyecto_pc\lista.h
+	<stdlib.h>
+	<conio.h>
+
+1556934442 source:c:\users\nxlsxn\desktop\c++\pc\proyecto_pc\funcionpalabras.cpp
+	<iostream>
+	<string.h>
+	<fstream>
+	"lista.cpp"
+
+1556925448 source:c:\users\nxlsxn\desktop\c++\pc\proyecto_pc\lista.cpp
+	"lista.h"
+
+1557195955 source:c:\users\nxlsxn\desktop\c++\pc\proyecto_pc\main.cpp
+	<iostream>
+	<cstdlib>
+	<string.h>
+	"main_buscar_administrador.h"
+
+1559026281 source:c:\users\user\desktop\general\c++\pc\proyecto_pc\main.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<string.h>
+	<fstream>
+	"lista.cpp"
+	<windows.h>
+	<iomanip>
+
+1556925448 c:\users\user\desktop\general\c++\pc\proyecto_pc\lista.cpp
+	"lista.h"
+
+1556925448 c:\users\user\desktop\general\c++\pc\proyecto_pc\lista.h
+	<stdlib.h>
+	<conio.h>
+
+1559026281 source:c:\users\user\desktop\proyecto_pc\main.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<string.h>
+	<fstream>
+	"lista.cpp"
+	<windows.h>
+	<iomanip>
+
+1556925448 c:\users\user\desktop\proyecto_pc\lista.cpp
+	"lista.h"
+
+1556925448 c:\users\user\desktop\proyecto_pc\lista.h
+	<stdlib.h>
+	<conio.h>
+
